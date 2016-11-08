@@ -1,5 +1,13 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work
+local?
 
-If you are working on a different computer you might want to store your code on GigHub
-so that you have your code wherever you are. Also, if you're working with a team GitHub
-is a great way for you all to share and work on the same code remotely.
+If you are working on a different computer you might want to store your code on
+GigHub so that you have your code wherever you are. Also, if you're working with
+a team GitHub is a great way for you all to share and work on the same code
+remotely.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Because you may not want all the files on GitHub. Also, you may want to select
+when to pull files.
